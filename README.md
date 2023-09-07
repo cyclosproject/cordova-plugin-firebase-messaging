@@ -1,3 +1,8 @@
+# Cyclos patch
+Plugin patched to add support for Android 13 (API level 33). The latest tag when the patch was applied was 7.0.4. We applied this PR: https://github.com/chemerisuk/cordova-plugin-firebase-messaging/pull/227
+
+This plugin is used for both Android and iOS, but the patched version is only used for Android, for iOS we use the published plugin.
+
 # Cordova plugin for [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/)
 [![NPM version][npm-version]][npm-url] [![NPM downloads][npm-downloads]][npm-url] [![NPM total downloads][npm-total-downloads]][npm-url] [![PayPal donate](https://img.shields.io/badge/paypal-donate-ff69b4?logo=paypal)][donate-url] [![Twitter][twitter-follow]][twitter-url]
 
