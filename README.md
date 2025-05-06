@@ -1,3 +1,5 @@
+# We used this patched version till mobile 2.14.6 (with Cordova 11.1.0, Android 11.0.0). In v2.15 we upgraded Cordova to 12.0.0 (Android 14.0.1) and start using the published version for Android too.
+
 # Cyclos patch
 Plugin patched to add support for Android 13 (API level 33). The latest tag when the patch was applied was 7.0.4. We applied this PR: https://github.com/chemerisuk/cordova-plugin-firebase-messaging/pull/227
 
